@@ -1,8 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <time.h>
 
 
 // t0 = 0, t1 = 0, t2 = 0, t3 = 1
